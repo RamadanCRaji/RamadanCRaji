@@ -1,4 +1,3 @@
-
 <img src="./images/img.jpg" width="100%">
 
 <p align="center">
@@ -16,34 +15,33 @@
   </a>
 </p>
 
-<!-- As a Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Research, Physics, and Business Management. -->
+As a Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Research, Physics, and Business Management.
 
 See [my website](https://ramadan-raji.netlify.app) for more information!
-
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
-  <!-- <tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">GeoClimate: Real-Time Weather Dashboard</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://ramadancraji.github.io/GeoClimateWeatherApp/">
+            <img src="./images/weather.gif" width="100%" alt="Wather App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+  <a href="https://github.com/RamadanCRaji/GeoClimateWeatherApp" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
+  <a href="https://ramadancraji.github.io/GeoClimateWeatherApp/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>HTML5, CSS3, & Javascript </strong> Catch the Weather on the Go! 🌤️ Simply type a city, get live updates on temperature, humidity, wind speed & more!Try it out <a href='https://github.com/RamadanCRaji/GeoClimateWeatherApp'> here! </a>💨</p>
     </td>
-    <td width="50%" valign="top">
+    <!-- <td width="50%" valign="top">
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
@@ -60,11 +58,11 @@ See [my website](https://ramadan-raji.netlify.app) for more information!
   </a>
       </p>
         <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
-    </td>
+    </td>   -->
   </tr>
   
   <tr>
-    <td width="50%" valign="top">
+    <!-- <td width="50%" valign="top">
       <h3 align="center">ShawnCharles.com</h3>
       <br />
         <a target="_blank" href="https://shawncharles.com">
@@ -80,8 +78,8 @@ See [my website](https://ramadan-raji.netlify.app) for more information!
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-    <td width="50%" valign="top">
+    </td> -->
+    <!-- <td width="50%" valign="top">
       <h3 align="center">Matching Cards</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
@@ -89,22 +87,20 @@ See [my website](https://ramadan-raji.netlify.app) for more information!
         </a>
         <br />
         <p align="center">
-          
+           -->
   <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://poke-matchcards.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
-      </p>
+      <!-- </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
-    </td>
+    </td> -->
   </tr>
-</table> -->
-
+</table>
 
 <h1 align="center">Technologies</h1>
-
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
@@ -122,14 +118,9 @@ See [my website](https://ramadan-raji.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
 </p>
 
-
-
 ---
 
-
 <h1 align="center">Connect</h1>
-
-
 
 <p align="center">
   <a href="https://ramadan-raji.netlify.app" target="_blank">
@@ -145,4 +136,3 @@ See [my website](https://ramadan-raji.netlify.app) for more information!
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
-
