@@ -17,14 +17,6 @@
 
 ###
 
-## 📫 How to reach me ...
-
-### [Twitter](https://twitter.com/intent/follow?screen_name=FreshPrnceCodes)
-### [LinkedIn](https://linkedin.com/in/ramadan-raji)
-### [Portfolio](https://www.intelagense.com/)
-### [Email](mailto:ramadanraji@gmail.com)
-###
-
 ## <h3 align="left">🛠 Language and tools</h3>
 
 #### Frontend
@@ -111,13 +103,12 @@
   </tr>
 </table>
 
-<div align="left">
-  <a href="linkedin.com/in/ramadan-raji" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=FreshPrnceCodes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
+## 📫 How to reach me ...
+
+### [Twitter](https://twitter.com/intent/follow?screen_name=FreshPrnceCodes)
+### [LinkedIn](https://linkedin.com/in/ramadan-raji)
+### [Portfolio](https://ramadanraji.netlify.app/)
+### [Email](mailto:armadanraji@gmail.com)
+###
 
 ###
