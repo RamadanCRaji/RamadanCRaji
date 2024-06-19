@@ -45,6 +45,67 @@
 </div>
 
 
+## Projects and Contributions:
+
+###
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">TheraAssign</h3>
+        <br />
+        <a target="_blank" href="http://thera-assign.vercel.app">
+            <img src="images/propertyjournal.gif" width="100%" alt="TheraAssign app demo"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/RamadanCRaji/TheraAssign" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>  
+          <a href="http://thera-assign.vercel.app" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=bootstrap&logo-color=white"/>
+          </a>
+      </p>
+      <p><strong>NextJs, ReactJS, Node.js, Express.js, MongoDB, Prisma</strong> - A hospital patient rehabilitation management software designed to streamline and track equipment and resources in rehab hospitals. This application aims to enhance patient care and improve operational efficiency.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">100 Freelancers</h3>
+        <br />
+        <a target="_blank" href="https://100freelancers.vercel.app/">
+            <img src="images/cortextprofile.gif" width="100%"  alt="Cortext demo"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/RamadanCRaji/100freelancers" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>  
+          <a href="https://100freelancers.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+          </a>
+      </p>
+      <p><strong>React, NextJs, Express, MongoDB, Node.Js, JavaScript</strong> - A software that streamlines client management for freelance software engineers, offering an efficient alternative to spreadsheets. Simplifies adding, viewing, and tracking clients, and enhances the monitoring of ongoing projects for effective client engagement.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">Community Focus</h3>
+        <br />
+        <a target="_blank" href="http://communityfocus.app/">
+            <img src="images/togetherprofile.gif" width="100%"  alt="Community Focus demo"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/RamadanCRaji/cf-frontend" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>  
+          <a href="http://communityfocus.app" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
+          </a>
+      </p>
+      <p><strong>ReactJS, TypeScript, Node.js, Express.js, MongoDB</strong> - A sharable time tracking app for members of the 40,000 member 100Devs Discord. Features include the ability to create virtual solo and group working rooms, sharable link timers.</p>
+    </td>
+  </tr>
+</table>
+
 <div align="left">
   <a href="linkedin.com/in/ramadan-raji" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
