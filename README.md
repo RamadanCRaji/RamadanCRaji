@@ -44,17 +44,17 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
 </div>
 
-
 ## Projects and Contributions:
 
 ###
+
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">TheraAssign</h3>
         <br />
         <a target="_blank" href="http://thera-assign.vercel.app">
-            <img src="images/propertyjournal.gif" width="100%" alt="TheraAssign app demo"/>
+            <img src="images/giphy-1.gif" width="100%" alt="TheraAssign app demo"/>
         </a>
         <br />
         <p align="center">
@@ -71,7 +71,7 @@
       <h3 align="center">100 Freelancers</h3>
         <br />
         <a target="_blank" href="https://100freelancers.vercel.app/">
-            <img src="images/cortextprofile.gif" width="100%"  alt="Cortext demo"/>
+            <img src="images/giphy-3.gif" width="100%"  alt="Cortext demo"/>
         </a>
         <br />
         <p align="center">
@@ -90,7 +90,7 @@
       <h3 align="center">Community Focus</h3>
         <br />
         <a target="_blank" href="http://communityfocus.app/">
-            <img src="images/togetherprofile.gif" width="100%"  alt="Community Focus demo"/>
+            <img src="images/giphy-5.gif" width="100%"  alt="Community Focus demo"/>
         </a>
         <br />
         <p align="center">
