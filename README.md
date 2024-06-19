@@ -1,138 +1,73 @@
-<img src="./images/img.jpg" width="100%">
+<div align="center">
+  <img src="./images/img.jpg" width="100%">
 
-<p align="center">
-  <a href="https://ramadan-raji.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
+</div>
+
+###
+
+<h1 align="left">Hi, I'm Ramadan</h1>
+
+###
+
+<p align="left">I am a Software Engineer in the MERN stack world🌍. I enjoy creating user-centric applications that solve problems,whether working independently or as part of a team.<br><br><br>-  🔭 Currently, I'm working on [TheraAssign](https://thera-assign.vercel.app/), a hospital patient rehabilitation management software designed to streamline and track equipment and resources in rehab hospitals. This project aims to enhance patient care and improve operational efficiency.<br><br><br>-  📚 I’ve been deep diving into Cloud infrastructure (DevOps) with AWS to better understand scalable solutions and improve the deployment efficiency as it's crucial for optimizing application performance and reliability in a cloud environment.<br><br>⚡ In my free time, I am usually engaged in portrait/landscape photography or drone piloting. Want to see some of my artistic skills? Check out [my photography website](https://your-website-link.com).</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RamadanCRaji&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/RamadanCRaji/RamadanCRaji/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
   <a href="linkedin.com/in/ramadan-raji" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=FreshPrnceCodes" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-</p>
+</div>
 
-As a Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Research, Physics, and Business Management.
-
-See [my website](https://ramadan-raji.netlify.app) for more information!
-
-<h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">GeoClimate: Real-Time Weather Dashboard</h3>
-        <br />
-        <a target="_blank" href="https://ramadancraji.github.io/GeoClimateWeatherApp/">
-            <img src="./images/weather.gif" width="100%" alt="Wather App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/RamadanCRaji/GeoClimateWeatherApp" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://ramadancraji.github.io/GeoClimateWeatherApp/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript </strong> Catch the Weather on the Go! 🌤️ Simply type a city, get live updates on temperature, humidity, wind speed & more!Try it out <a href='https://github.com/RamadanCRaji/GeoClimateWeatherApp'> here! </a>💨</p>
-    </td>
-    <!-- <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
-        <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
-    </td>   -->
-  </tr>
-  
-  <tr>
-    <!-- <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
-      <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://shawncharles.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td> -->
-    <!-- <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
-        <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
-        <p align="center">
-           -->
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      <!-- </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
-    </td> -->
-  </tr>
-</table>
-
-<h1 align="center">Technologies</h1>
-
-<p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
-</p>
-
----
-
-<h1 align="center">Connect</h1>
-
-<p align="center">
-  <a href="https://ramadan-raji.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="linkedin.com/in/ramadan-raji" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=FreshPrnceCodes" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-</p>
+###
