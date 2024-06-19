@@ -17,11 +17,15 @@
 
 ###
 
-<p align="left"></p>
+## 📫 How to reach me ...
 
+### [Twitter](https://twitter.com/intent/follow?screen_name=FreshPrnceCodes)
+### [LinkedIn](https://linkedin.com/in/ramadan-raji)
+### [Portfolio](https://www.intelagense.com/)
+### [Email](mailto:ramadanraji@gmail.com)
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+## <h3 align="left">🛠 Language and tools</h3>
 
 #### Frontend
 
@@ -43,6 +47,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
 </div>
+
 
 ## Projects and Contributions:
 
