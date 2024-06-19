@@ -9,7 +9,11 @@
 
 ###
 
-<p align="left">I am a Software Engineer in the MERN stack world🌍. I enjoy creating user-centric applications that solve problems,whether working independently or as part of a team.<br><br><br>-  🔭 Currently, I'm working on [TheraAssign](https://thera-assign.vercel.app/), a hospital patient rehabilitation management software designed to streamline and track equipment and resources in rehab hospitals. This project aims to enhance patient care and improve operational efficiency.<br><br>-  📚 I’ve been deep diving into Cloud infrastructure (DevOps) with AWS to better understand scalable solutions and improve the deployment efficiency as it's crucial for optimizing application performance and reliability in a cloud environment.<br><br>⚡ In my free time, I am usually engaged in portrait/landscape photography or drone piloting. Want to see some of my artistic skills? Check out [my photography website](https://ramadanrajiphotography.squarespace.com).</p>
+<p align="left">I am a Software Engineer in the MERN stack world🌍. I enjoy creating user-centric applications that solve problems,whether working independently or as part of a team. 
+  
+- 🔭 Currently, I'm working on [TheraAssign](https://thera-assign.vercel.app/) , a hospital patient rehabilitation management software designed to streamline and track equipment and resources in rehab hospitals. This project aims to enhance patient care and improve operational efficiency.
+- 📚 I’ve been deep diving into Cloud infrastructure (DevOps) with AWS to better understand scalable solutions and improve the deployment efficiency as it's crucial for optimizing application performance and reliability in a cloud environment.
+- ⚡ In my free time, I am usually engaged in portrait/landscape photography or drone piloting. Want to see some of my artistic skills? Check out [my photography website](https://ramadanrajiphotography.squarespace.com).</p>
 
 ###
 
