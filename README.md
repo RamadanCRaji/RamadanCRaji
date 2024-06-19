@@ -60,9 +60,9 @@
         <p align="center">
           <a href="https://github.com/RamadanCRaji/TheraAssign" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-          </a>  
+          </a> 
           <a href="http://thera-assign.vercel.app" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=bootstrap&logo-color=white"/>
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=next.js&logo-color=white"/>
           </a>
       </p>
       <p><strong>NextJs, ReactJS, Node.js, Express.js, MongoDB, Prisma</strong> - A hospital patient rehabilitation management software designed to streamline and track equipment and resources in rehab hospitals. This application aims to enhance patient care and improve operational efficiency.</p>
@@ -101,7 +101,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=react&logo-color=white"/>
           </a>
       </p>
-      <p><strong>ReactJS, TypeScript, Node.js, Express.js, MongoDB</strong> - A sharable time tracking app for members of the 40,000 member 100Devs Discord. Features include the ability to create virtual solo and group working rooms, sharable link timers.</p>
+      <p><strong>ReactJS, TypeScript, Node.js, Express.js, MongoDB</strong> - A sharable time  time tracking app for the 40,000 members of the 100Devs Discord. Features include the ability to create virtual solo and group working rooms, sharable link timers.</p>
     </td>
   </tr>
 </table>
