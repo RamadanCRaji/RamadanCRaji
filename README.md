@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./images/img.jpg" width="100%">
-
-</div>
 
 ###
 
