@@ -1,7 +1,10 @@
+<div align="center">
+  <img src="./images/img.jpg" width="100%">
 
+</div>
 ###
 
-<h1 align="left">Hi, I'm Excel</h1>
+<h1 align="left">Hi, I'm Ramadan</h1>
 
 ###
 
